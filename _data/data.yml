@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -73,14 +73,14 @@ education:
 
 学生经历:
     title: 舞团团长
-#    intro: >
+    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: 舞团团长
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "#hook"
+        tagline: 描述一下
 
 #      - title: DevStudio
 #        link: "#"
