@@ -72,13 +72,13 @@ education:
           - 活动描述
 
 学生经历:
-#    title: Projects
+    title: 舞团团长
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
+    assignments:
+      - title: 舞团团长
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -98,14 +98,14 @@ education:
  #       link: "#"
  #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
-#    title: Publications
+publications:
+    title: Publications
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
+    papers:
+      - title: 发了什么论文
 #        link: "#"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
