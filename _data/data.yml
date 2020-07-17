@@ -25,19 +25,19 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 #
-  #  languages:
-   #   - idiom: English
-   #     level: Native
+    languages:
+      - idiom: CET-4
+        level: 多少分
 
-   #   - idiom: French
-   #     level: Professional
+      - idiom: CET-6
+        level: 多少分
 
   #    - idiom: Spanish
   #      level: Professional
 
-  #  interests:
-  #    - item: Climbing
-  #      link:
+    interests:
+      - item: 写你喜欢干什么
+        link:
 
   #    - item: Snowboarding
   #      link:
@@ -48,15 +48,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      写想做什么工作
+      写自己的求职意向
       
 education:
-    - degree: 工学硕士
+    - degree: 测控仪器与技术 工学硕士
       university: 天津大学
       time: 2018 - 2021
       details: |
         什么专业排名多少
-    - degree: 工学学士
+    - degree: 测控仪器与技术 工学学士
       university: 中南大学
       time: 2014 - 2018
       details: |
@@ -74,9 +74,7 @@ education:
 学生经历:
     title: 舞团团长
     intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      V-Sugars可厉害了
     assignments:
       - title: 舞团团长
         link: "#hook"
