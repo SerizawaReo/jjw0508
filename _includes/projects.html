@@ -4,14 +4,6 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
-    </span>
-    学生经历
-  </h2>
-<!--
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
@@ -21,27 +13,9 @@
   <div class="intro">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
-  <!--{% endif %}
+  {% endif %}
 
-  {% for project in projects %}
-  <div class="item">
-
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ projects.role }}</h3>
-        <div class="time">{{ projects.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ projects.company }}</div>
-
-    </div><!--//meta-->
-
-    {% if projects.details %}
-    <div class="details">
-      {{ projects.details | markdownify }}
-    </div><!--//details-->
-  <!--
+ 
     <div class="item">
 
       <span class="project-title">
