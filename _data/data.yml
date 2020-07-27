@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: 蒋佳雯
     tagline: 游戏渠道/运营
-    avatar: 院徽矢量图.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: jjw_0508.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 这里写邮箱
-    phone: 这里写电话
+    email: 447186337@qq.com
+    phone: 15111471090
     #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
+    wechat: jjw_0508
     #github: sharu725
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -35,12 +35,12 @@ sidebar:
   #    - idiom: Spanish
   #      level: Professional
 
-    interests:
-      - item: 写你喜欢干什么
+    honors:
+      - item: 2018年全国大学生创新创业项目校级立项
         link:
 
-  #    - item: Snowboarding
-  #      link:
+      - item: 2016年全国大学生数学建模竞赛湖南省三等奖
+        link:
 
   #    - item: Cooking
   #      link:
@@ -48,37 +48,55 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      写自己的求职意向
+      管培生（产品方向）
       
 education:
-    - degree: 测控仪器与技术 工学硕士
+    - degree: 仪器科学与技术 工学硕士
       university: 天津大学
       time: 2018 - 2021
       details: |
-        什么专业排名多少
+        专业排名 9% (7/78)
     - degree: 测控仪器与技术 工学学士
       university: 中南大学
       time: 2014 - 2018
       details: |
-        成绩排名
+        专业排名 10% (8/81)
         
 实习经历:
-    - role: 游戏运营
+    - role: 游戏平台运营实习生
       time: 2020.04 - Present
-      company: 腾讯
+      company: 腾讯 IEG互动娱乐事业群 X7 游戏产品部
       details: |
         梦想新大陆
-          - 活动描述
-          - 活动描述
+          - 产品预约期渠道对接：独立完成回合制产品《梦想新大陆》手Q、微信、TapTap、华为等渠道预约筹备对接工作。分析渠道用户属性制定专属预约页面素材及活动，跟进上线进程，分析反馈素材活动等转化效果并不断迭代优化。观察竞品信息，争取渠道资源位，并达成《梦想新大陆》首日预约6w+，首月预约73w+。
+          - 预约用户获取方案整理：对用户进行分层，补充号码包关键词，精准挖掘核心用户；撰写《梦想新大陆》手游预约期社交裂变方案，包括社交触达H5活动等。已完成分享类H5—身份测试、内容类H5—文明答题、基于社交关系传播类H5—点亮文明、夸我红包活动等，负责活动创意、原型交互设计，并跟进确保项目准时准确上线，能够与设计、重构、研发多方效率沟通。其中已上线身份测试H5，微信点击率18%，预约转化率20%。
+         
+工作经历:
+    - role: 舞团团长
+      time: 2014.09 - 2016.09
+      company: 中南大学异次元动漫社
+      details: |
+        V-Sugars舞团团长
+          - 舞团管理：针对LOVE LIVE粉丝群体，成立二次元舞团，在任期间管理核心成员30余人，主要负责宣传、组织排练、安排演出等工作，带领团队多次参与长沙地区LIVE演出；在B站上传排练和演出视频10+，其中最高播放量为13.6w，登上B站首页推荐，最高日排行全站200以内。
+          - 漫展&平台合作：三年cos经验，多次作为舞团成员、和舞台剧人员参加长沙地区的漫展和二次元LIVE，与漫展进行合作，熟知漫展流程；2016年与B站合作组织举办长沙地区的BDF活动，邀请5所高校30余人参与活动，组织舞蹈排练，提出视频剪辑创意，在B站收获7.5w播放量，位居BDF宅舞城市接力视频前5。
+          - 活动策划：担任总负责人组织筹办舞团专场晚会，期间主要负责宣传、活动策划、外联；针对二次元特定群体，前往漫展进行宣传、与其他高校动漫社进行合作、在校园内组织快闪活动，晚会参与人数达到800+，拉到2000元赞助。活动晚会在B站播放量达到1.9w，广受好评。
+          
+    - role: 副书记
+      time: 2016.09 - 2017.09
+      company: 中南大学信息科学与工程学院团委学生会
+      details: |
+        V-Sugars
+          - 微博、微信运营：负责学院的对外宣传活动，主要完成创意选题、设计审核工作；完成人物类专题的策划工作，开创“信息风云榜”“中南人物”两个栏目，栏目每篇文章点击量均在1000以上；在职期间微信关注人数7246，微博关注人数5307，推文总数 353 次，获得“百强新媒体”称号；
+            
 
-学生经历:
-    title: 舞团团长
-    intro: >
-      V-Sugars可厉害了
-    assignments:
-      - title: 舞团团长
-        link: "#hook"
-        tagline: 描述一下
+#学生经历:
+#    title: 舞团团长
+#    intro: >
+#      V-Sugars可厉害了
+#    assignments:
+#      - title: 舞团团长
+#        link: "#hook"
+#        tagline: 描述一下
 
 #      - title: DevStudio
 #        link: "#"
@@ -96,14 +114,14 @@ education:
  #       link: "#"
  #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+#publications:
+#    title: Publications
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-    papers:
-      - title: 发了什么论文
+#    papers:
+#      - title: 发了什么论文
 #        link: "#"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
