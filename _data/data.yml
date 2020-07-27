@@ -35,12 +35,12 @@ sidebar:
   #    - idiom: Spanish
   #      level: Professional
 
-    honors:
-      - item: 2018年全国大学生创新创业项目校级立项
-        link:
+  #  honors:
+  #    - item: 2018年全国大学生创新创业项目校级立项
+  #      link:
 
-      - item: 2016年全国大学生数学建模竞赛湖南省三等奖
-        link:
+  #    - item: 2016年全国大学生数学建模竞赛湖南省三等奖
+  #      link:
 
   #    - item: Cooking
   #      link:
@@ -55,12 +55,12 @@ education:
       university: 天津大学
       time: 2018 - 2021
       details: |
-        专业排名 9% (7/78)
+        - 专业排名 9% (7/78)
     - degree: 测控仪器与技术 工学学士
       university: 中南大学
       time: 2014 - 2018
       details: |
-        专业排名 10% (8/81)
+        - 专业排名 10% (8/81)
         
 实习经历:
     - role: 游戏平台运营实习生
