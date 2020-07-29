@@ -87,7 +87,6 @@ works:
       details: |
           - 微博、微信运营：负责学院的对外宣传活动，主要完成创意选题、设计审核工作；完成人物类专题的策划工作，开创“信息风云榜”“中南人物”两个栏目，栏目每篇文章点击量均在1000以上；在职期间微信关注人数7246，微博关注人数5307，推文总数 353 次，获得“百强新媒体”称号；
             
-
 #学生经历:
 #    title: 舞团团长
 #    intro: >
@@ -140,7 +139,8 @@ publications:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-
+internships:
+    test: identity_test.png
 
 
 
