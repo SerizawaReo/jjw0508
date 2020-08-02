@@ -1,10 +1,17 @@
 {% assign internships = site.data.data.internships %}
-{% if internships %}
 <section class="section internships-section">
+    <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    活动展示
+  </h2>
+  {% if internships %}
   <div class="internship box">
-#    <ul>
+    <ul>
     <li><a href="https://d.qq.com/cp/a20200518mxxdl/index_qw.html?adtag=3"><img class="test" src="{{ site.baseurl }}/assets/images/{{ internships.test }}" alt="test picture">
-#    </ul>
+    </ul>
   </div>
 </section>
 
