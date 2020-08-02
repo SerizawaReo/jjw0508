@@ -11,6 +11,11 @@
     活动展示
   </h2>
   {% if internships %}
+  {% if internships.intro %}
+    <div class="intro">
+        <p>{{internships.intro}}</p>
+    </div>
+  {% endif %}
   <div class="internship box">
     <a href="https://d.qq.com/cp/a20200518mxxdl/index_qw.html?adtag=3"><img class="test" src="{{ site.baseurl }}/assets/images/{{ internships.test }}" alt="test picture">
   </div>
