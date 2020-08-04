@@ -2,39 +2,6 @@
 <style>
     img{width:100%;height:100%}
 </style>
-<script type="text/javascript>
-    $(function(){
-              $(".internship box").hover(function(){
-                  $(".lr").show();
-               },function(){
-                  $(".lr").hide();
-                  });
-     $(".button li).click(function(){
-        $(this).addClass("on").siblings().removeClass("on");
-        var num = $(this).index;
-        "(".pic").animate({marginLeft:-350*num},"slow");
-      });
-      var a = 0;
-      var automatic = setInterval(function(){
-         a++;
-         a=a%2;
-         $(".pic").animate({marginLeft:350*a}, "slow");
-         $(".button li").eq(a).addClass("on").siblings().removeClass("on");
-      },6000);
-      $(".pre").click(function(){
-         a--;
-         a=(a+2)%2;
-         $(".pic").animate({marginLeft:350*a}, "slow");
-         $(".button li").eq(a).addClass("on").siblings().removeClass("on");
-      });  
-       $(".pre").click(function(){
-         a++;
-         a=a%2;
-         $(".pic").animate({marginLeft:350*a}, "slow");
-         $(".button li").eq(a).addClass("on").siblings().removeClass("on");
-      });   
-});                                                                         
-</script>
 <section class="section internships-section">
     <h2 class="section-title">
     <span class="fa-stack fa-xs">
