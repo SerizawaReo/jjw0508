@@ -35,11 +35,11 @@ sidebar:
   #    - idiom: Spanish
   #      level: Professional
 
-  #  honors:
-  #    - item: 2018年全国大学生创新创业项目校级立项
+    honors:
+      - item: 2018年全国大学生创新创业项目校级立项
   #      link:
 
-  #    - item: 2016年全国大学生数学建模竞赛湖南省三等奖
+      - item: 2016年全国大学生数学建模竞赛湖南省三等奖
   #      link:
 
   #    - item: Cooking
