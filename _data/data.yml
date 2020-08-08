@@ -36,6 +36,11 @@ sidebar:
   #      level: Professional
 
     honors:
+    
+      - item: 计算机等级考试 C语言二级
+      
+      - item: CLAD初级证书
+      
       - item: 2018年全国大学生创新创业项目校级立项
   #      link:
 
@@ -112,29 +117,29 @@ works:
  #       link: "#"
  #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: 荣誉证书
+#publications:
+#    title: 荣誉证书
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-    papers:
-      - title: 计算机等级考试 C语言二级
+#    papers:
+#      - title: 计算机等级考试 C语言二级
 #        link: "#"
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
 
-      - title: CLAD初级证书
+#      - title: CLAD初级证书
 #        link: "#"
 #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: 2016年全国大学生数学建模竞赛湖南省三等奖
+#      - title: 2016年全国大学生数学建模竞赛湖南省三等奖
 #        link: "#"
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
       
-      - title: 2018年全国大学生创新创业项目校级立项（已结题）
+#      - title: 2018年全国大学生创新创业项目校级立项（已结题）
 #        link: "#"
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
