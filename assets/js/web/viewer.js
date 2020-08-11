@@ -4547,7 +4547,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "compressed.tracemonkey-pldi-09.pdf",
+    value: "/jjw0508.github.io/assets/images/%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84%E5%92%8C%E5%8F%91%E8%A1%8C%E7%9B%98%E7%82%B9.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
